@@ -24,7 +24,7 @@ for i in range(1, 51):
     else:
         print("Opção inválida!")
 
-print("\n===== RESULTADO DA PESQUISA =====")
+print("\n===== Resultado da pesquisa de satisfação TudoWeb =====")
 print(f"Quantidade de respostas EXCELENTE: {excelente}")
 print(f"Quantidade de respostas BOM: {bom}")
 print(f"Quantidade de respostas RUIM: {ruim}")
